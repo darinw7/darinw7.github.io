@@ -9,8 +9,8 @@ labels:
   - Typescript
 ---
 ![84679512](https://github.com/user-attachments/assets/c697a105-6193-4313-a7c8-12e204d9bf0a)
+![Screen Shot 2025-01-23 at 10 32 08 PM](https://github.com/user-attachments/assets/9ac22133-fc8a-469e-b8a0-c3da7a06a807)
 
-![1_tskSfXmhO7CyNjLcNMof4g](https://github.com/user-attachments/assets/a331905e-db3c-479c-ba26-e17ef1b3de86)
 
 
 ## Introduction: Thoughts on Typescript
