@@ -9,12 +9,11 @@ labels:
   - Typescript
 ---
 ![84679512](https://github.com/user-attachments/assets/c697a105-6193-4313-a7c8-12e204d9bf0a)
-![Screen Shot 2025-01-23 at 10 32 08 PM](https://github.com/user-attachments/assets/9ac22133-fc8a-469e-b8a0-c3da7a06a807)
-
-
 
 ## Introduction: Thoughts on Typescript
 Recently in my ICS 314 - software enginnering class, we have began to code in the Typescript language. Just two weeks ago, I only had experience in programming for Java and C/C++. While I know that this experience will be a significant challenge, I'm excited to learn more about Typescript and work towards being a professional programmer. In my limited experience so far, I've noticed many similarities that it has with Java outside of having to get used to new syntax and other minor things that is to be expected when working with a new language. 
+
+![Screen Shot 2025-01-23 at 10 33 18 PM](https://github.com/user-attachments/assets/66c1fc43-2dda-4155-84f6-73b8321899cb)
 
 ## Good/Bad
 In my opinion, Typescript is a good programming language given that it has benefits such as static typing which allows types to be defined for variables, arguments, and return values. There are also many cool futures within, but I would also argue that a negative is for people that don't have experience with Typescript and are coming from a language like Javascript. This would lead to a pretty significant learning curve due to new concepts like types which are absolutely essential but can be challenging to understand without previous knowledge from like Java which has them.
