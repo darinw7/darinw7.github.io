@@ -15,7 +15,7 @@ Recently in my ICS 314 - software enginnering class, we have began to code in th
 
 ![Screen Shot 2025-01-23 at 10 33 18 PM](https://github.com/user-attachments/assets/66c1fc43-2dda-4155-84f6-73b8321899cb)
 
-## Good/Bad
+## Benefit & Setback
 In my opinion, Typescript is a good programming language given that it has benefits such as static typing which allows types to be defined for variables, arguments, and return values. There are also many cool futures within, but I would also argue that a negative is for people that don't have experience with Typescript and are coming from a language like Javascript. This would lead to a pretty significant learning curve due to new concepts like types which are absolutely essential but can be challenging to understand without previous knowledge from like Java which has them.
 
 ## WOD's are difficult, but can be rewarding
