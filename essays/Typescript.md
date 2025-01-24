@@ -8,8 +8,8 @@ published: true
 labels:
   - Typescript
 ---
+![84679512](https://github.com/user-attachments/assets/c697a105-6193-4313-a7c8-12e204d9bf0a)
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## Introduction: Thoughts on Typescript
 Recently in my ICS 314 - software enginnering class, we have began to code in the Typescript language. Just two weeks ago, I only had experience in programming for Java and C/C++. While I know that this experience will be a significant challenge, I'm excited to learn more about Typescript and work towards being a professional programmer. In my limited experience so far, I've noticed many similarities that it has with Java outside of having to get used to new syntax and other minor things that is to be expected when working with a new language. 
