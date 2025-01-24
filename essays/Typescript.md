@@ -22,3 +22,5 @@ In the class, we also have exercises that are known as WODs(Workouts of the Day)
 
 ## Conclusion
 All in all, Typescript is like all other languages in that it takes a lot of effort to learn and especially to master. There are also positives and negatives in comparison to other, and over time I hope to discover what works better for each so that I can use it to the best of my potential. Nonetheless, I am very excited to learn more about Typescript and everything it has to offer, and cant wait to see how this experience goes as I get more repititions, practice, and time spent on this new and sure to be fun experience.
+
+- Used ChatGPT to check grammar.
