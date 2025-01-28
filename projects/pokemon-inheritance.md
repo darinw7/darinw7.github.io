@@ -2,12 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Pokemon Inheritance Application in C++"
+date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Pokemon
+  - C++
+  - UNIX
+    
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
