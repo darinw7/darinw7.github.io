@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/pokemon_inheritance.png
 title: "Pokemon Inheritance Application in C++"
 date: 2024
 published: true
