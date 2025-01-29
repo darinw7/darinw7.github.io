@@ -1,0 +1,12 @@
+Script started on Mon 09 Dec 2024 05:34:13 PM HST
+]0;darinw9@uhx02:~/homework9[?1034huhx02:/home/d/darinw9/homework9% make
+g++ -ansi -pedantic-errors -Wall -c bulbasaur.cpp
+g++ -ansi -pedantic-errors -Wall -c charmander.cpp
+g++ -ansi -pedantic-errors -Wall -c wartortle.cpp
+g++ -ansi -pedantic-errors -Wall -c pokemon.cpp
+g++ -ansi -pedantic-errors -Wall -c main.cpp
+g++ -o homework9 bulbasaur.o charmander.o wartortle.o pokemon.o  main.o
+]0;darinw9@uhx02:~/homework9uhx02:/home/d/darinw9/homework9% exit
+exit
+
+Script done on Mon 09 Dec 2024 05:34:17 PM HST

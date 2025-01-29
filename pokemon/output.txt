@@ -1,0 +1,31 @@
+Script started on Mon 09 Dec 2024 05:35:31 PM HST
+]0;darinw9@uhx02:~/homework9[?1034huhx02:/home/d/darinw9/homework9% ./homework9
+Pokemon Constructor
+Bulbasaur Constructor
+Pokemon Constructor
+Charmander Constructor
+Pokemon Constructor
+Wartortle Constructor
+
+Using Nickname(key): Ivy
+Accessing the address of the corresponding Pokemon Object: 
+Name: Bulbasaur, Type: Grass/Poison, Weight: 15.2 lbs
+
+Using Nickname(key): Sriracha
+Accessing the address of the corresponding Pokemon Object: 
+Name: Charmander, Type: Fire, Weight: 18.7 lbs
+
+Using Nickname(key): Aquamarine
+Accessing the address of the corresponding Pokemon Object: 
+Name: Wartortle, Type: Water, Weight: 49.6 lbs
+
+Bulbasaur Destructor
+Pokemon Destructor
+Charmander Destructor
+Pokemon Destructor
+Wartortle Destructor
+Pokemon Destructor
+]0;darinw9@uhx02:~/homework9uhx02:/home/d/darinw9/homework9% exit
+exit
+
+Script done on Mon 09 Dec 2024 05:35:41 PM HST
