@@ -1,0 +1,88 @@
+Script started on Tue 05 Nov 2024 08:19:51 PM HST
+]0;darinw9@uhx02:~/project1[?1034huhx02:/home/d/darinw9/project1% s[K./project1
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record
+printall: Print all records
+find: Find a record
+delete: Delete a record
+quit: Quit the program
+
+Your choice: add
+Enter your account number: 100
+Enter your name: Darin Wong
+Enter the address (Press Enter twice to finish): 
+1680 East-West Rd.
+HO onolulu HI 96817
+
+Successfully added a record.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record
+printall: Print all records
+find: Find a record
+delete: Delete a record
+quit: Quit the program
+
+Your choice: p
+Printing all records!
+Account No: 100
+Name: Darin Wong
+Address: 
+1680 East-West Rd.
+Honolulu HI 96817
+
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record
+printall: Print all records
+find: Find a record
+delete: Delete a record
+quit: Quit the program
+
+Your choice: f
+Enter account number to find record: 100
+Account Number: 100
+Name: Darin Wong
+Address: 1680 East-West Rd.
+Honolulu HI 96817
+
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record
+printall: Print all records
+find: Find a record
+delete: Delete a record
+quit: Quit the program
+
+Your choice: de
+Enter account number to delete: 100
+Account deleted successfully.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record
+printall: Print all records
+find: Find a record
+delete: Delete a record
+quit: Quit the program
+
+Your choice: p
+No records to display
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record
+printall: Print all records
+find: Find a record
+delete: Delete a record
+quit: Quit the program
+
+Your choice: quit
+]0;darinw9@uhx02:~/project1uhx02:/home/d/darinw9/project1% exit
+exit
+
+Script done on Tue 05 Nov 2024 08:25:21 PM HST
