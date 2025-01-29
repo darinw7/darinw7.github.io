@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring Typescript and its Challenges"
+title: "Exploring Typescript and the Challenges It Poses"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
 published: true
