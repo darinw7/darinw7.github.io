@@ -17,6 +17,8 @@ This is a Bank Database program that I created for ICS 212 last semester. It all
 As a whole, this project took a lot of work and effort to implement. I spent countless hours writing code to simulate the real and proper experience and ensure that everything was working properly. Throughout the process, I had to trace lines of code individually whenever I was not receiving the proper output that I was expecting and began to get a little frustrated at myself. Nonetheless, it taught me a lot not only about programming in C/C++ but that programming requires having skills like thinking outside of the box and things will not just be given to me for free. In the end, being able to complete this project in both languages was a nice learning experience, and I hope that there will be more opportunities like this sometime in the near future!
 
 Here is some output that demonstrations how the application interacts with the user:
+
+
 ![Screen Shot 2025-01-28 at 9 19 28 PM](https://github.com/user-attachments/assets/5844fef4-89bd-41d9-b885-cc89e0d70af1)
 
 Link to code:
