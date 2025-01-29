@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mupltiples_of3.png
+image: img/multiples_of3.png
 
 title: "Multiples of 3 Generator(Based on user input)"
 date: 2024
