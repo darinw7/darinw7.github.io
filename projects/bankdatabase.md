@@ -10,7 +10,8 @@ labels:
   - C++
 summary: "A database application that I implemented in C and C++ for my ICS 212 Program Structure class."
 ---
-![C](https://github.com/user-attachments/assets/7ac5afe7-9c99-4612-95af-f895472a6cf3)
+![C](https://github.com/user-attachments/assets/7ac5afe7-9c99-4612-95af-f895472a6cf3)  ![download-1](https://github.com/user-attachments/assets/769b7317-6780-4c99-be78-e2f0bec133b5)
+
 
 This is a Bank Database program that I created for ICS 212 last semester. It allows users to do varius things like add a new account, find or delete one, and print out all relevant information that is related for a specific account. This project was split up into two major parts, the user interface and the database. The user interface received input from the user and took care of all the interactions for this entire program. Meanwhile, the database was set up to implement the functions that would actually simulate what a bank is like.
 
@@ -20,5 +21,3 @@ Here is some output that demonstrations how the application interacts with the u
 
 
 ![Screen Shot 2025-01-28 at 9 19 28 PM](https://github.com/user-attachments/assets/5844fef4-89bd-41d9-b885-cc89e0d70af1)
-
-Link to code:
