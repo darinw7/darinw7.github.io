@@ -1,0 +1,7 @@
+For this project, I was able to implement the linked list class to control the database. It includes all of the implementations, including adding, finding, printing, and deleting records. I also
+implemented the user interface, of which the main purpose is to display the menu options and get input from the user. Another part of the project that I created is differentiating how the program
+works in the debug and release modes. The difference is that the debug one prints out extra information, and is compiled with -DDEBUG as opposed to the other, which doesn't have that or any extra
+information printed. In terms of the extra credit, I was able to implement the copy constructor, assignment operator, and overload the << operator. Some of the issues I had while working on this
+was with handling the file, and also the read and writefile functions, but in which debugging was able to help somewhat in solving. For future enhancements, I would try to focus on making the
+design of the user interface more nicer to look at, and just making sure that all parts are handled properly. Overall though, the project was implemented properly based on the requirements
+and making it work for the user using the program.

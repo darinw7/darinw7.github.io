@@ -1,0 +1,136 @@
+Script started on Sun 01 Dec 2024 07:43:39 PM HST
+]0;darinw9@uhx02:~/project2[?1034huhx02:/home/d/darinw9/project2% exit./project_debugexit[K./project_debug
+
+Debug mode activated.
+
+[DEBUG] Constructor called
+[DEBUG] readfile called with filename: data.txt
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: ad 
+Enter an account number: -5
+Error. Please enter a positive integer: 3
+Enter a name: Darin Wong
+Enter an address: 3 1111 Dole St.
+
+
+[DEBUG]
+Calling addRecord with
+accountno: 3
+name: Darin Wong
+address: 1111 Dole St.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: p
+[DEBUG] printAllRecords called
+Printing all records!
+Account number: 3
+Name: Darin Wong
+Address: 
+1111 Dole St.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: fi 
+Enter an account number to find: 3
+
+[DEBUG] findRecord called with accountno: 3
+Account number: 3
+Name: Darin Wong
+Address: 1111 Dole St.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: q
+[DEBUG] Destructor called
+[DEBUG] writefile called with filename: data.txt
+[DEBUG] cleanup called
+]0;darinw9@uhx02:~/project2uhx02:/home/d/darinw9/project2% ./project
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: a
+Enter an account number: 5
+Enter a name: Darin Wong
+Enter an address: 1111 Dole St.
+
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: p
+Printing all records!
+Account number: 3
+Name: Darin Wong
+Address: 
+1111 Dole St.
+
+Account number: 5
+Name: Darin Wong
+Address: 
+1111 Dole St.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: f
+Enter an account number to find: 5
+Account number: 5
+Name: Darin Wong
+Address: 1111 Dole St.
+
+Welcome to the bank database!
+Please choose one of the options below.
+add: Add a new record.
+printall: Print all records.
+find: Find a record.
+delete: Delete a record.
+quit: Quit the program.
+
+Your choice: q
+]0;darinw9@uhx02:~/project2uhx02:/home/d/darinw9/project2% exit
+exit
+
+Script done on Sun 01 Dec 2024 07:45:38 PM HST

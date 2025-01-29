@@ -1,0 +1,14 @@
+Script started on Sun 01 Dec 2024 06:05:31 PM HST
+]0;darinw9@uhx02:~/project2[?1034huhx02:/home/d/darinw9/project2% exitclearmake -f debug.mak[8Ptouch *.omake -f debug.mak
+g++ -ansi -pedantic-errors -Wall -c user_interface.cpp
+g++ -ansi -pedantic-errors -Wall -DDEBUG -c llist.cpp
+g++ -o project_debug user_interface.o llist.o
+]0;darinw9@uhx02:~/project2uhx02:/home/d/darinw9/project2% touch *.cpp
+]0;darinw9@uhx02:~/project2uhx02:/home/d/darinw9/project2% touch *.cppmake -f debug.mak[1P.mak[1P.mak[1P.mak[1P.mak[1P.makr.make.makl.make.maka.maks.make.mak[C
+g++ -ansi -pedantic-errors -Wall -c user_interface.cpp
+g++ -ansi -pedantic-errors -Wall -c llist.cpp
+g++ -o project user_interface.o llist.o
+]0;darinw9@uhx02:~/project2uhx02:/home/d/darinw9/project2% exit
+exit
+
+Script done on Sun 01 Dec 2024 06:06:27 PM HST
