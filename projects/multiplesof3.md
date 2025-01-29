@@ -12,13 +12,16 @@ labels:
 summary: "This is a project that I created for my ICS 212 class in which produces a table showing each number and if it is a multiple of 3."
 ---
 
+This was one of my first projects that I created in my ICS 212 class, and it was a pretty simple one. The code for it was short and did not take much time for me to create. Nonetheless, it was a good experience for me as I was just learning the basics of using commands on UNIX and especially a new language at the time in C. This project however was split up into a few short functions in which started by asking the user to input a number, that would be checked for being a multiple of 3 or not, and printing a table showing all of that information.
+
+Output of my application:
+
 ![Screen Shot 2025-01-28 at 10 06 24 PM](https://github.com/user-attachments/assets/7d4bedcc-2237-4a7d-aac4-2db7ada47236)
 
-This is a Bank Database program that I created for ICS 212 last semester. It allows users to do varius things like add a new account, find or delete one, and print out all relevant information that is related for a specific account. This project was split up into two major parts, the user interface and the database. The user interface received input from the user and took care of all the interactions for this entire program. Meanwhile, the database was set up to implement the functions that would actually simulate what a bank is like.
-
-As a whole, this project took a lot of work and effort to implement. I spent countless hours writing code to simulate the real and proper experience and ensure that everything was working properly. Throughout the process, I had to trace lines of code individually whenever I was not receiving the proper output that I was expecting and began to get a little frustrated at myself. Nonetheless, it taught me a lot not only about programming in C/C++ but that programming requires having skills like thinking outside of the box and things will not just be given to me for free. In the end, being able to complete this project in both languages was a nice learning experience, and I hope that there will be more opportunities like this sometime in the near future!
-
-Here is some output that demonstrations how the application interacts with the user:
+Snippets of my code: 
+![Screen Shot 2025-01-28 at 10 24 53 PM](https://github.com/user-attachments/assets/723bb1b6-67a9-472d-a4a8-84513b633292) ![Screen Shot 2025-01-28 at 10 25 00 PM](https://github.com/user-attachments/assets/77c5264c-c8ca-4261-a126-6005e2046a38) ![Screen Shot 2025-01-28 at 10 25 07 PM](https://github.com/user-attachments/assets/2f8a63e0-4f23-4944-9f62-90b8c9714c26)
 
 
-![Screen Shot 2025-01-28 at 9 19 28 PM](https://github.com/user-attachments/assets/5844fef4-89bd-41d9-b885-cc89e0d70af1)
+
+
+
