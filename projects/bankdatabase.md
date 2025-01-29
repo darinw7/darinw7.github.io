@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bank_database.png
 
 title: "Bank Database in C/C++"
 date: 2024
