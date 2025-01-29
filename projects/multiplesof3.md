@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: img/bank_database.png
+image: img/mupltiples_of3.png
 
-title: "Bank Database in C/C++"
+title: "Multiples of 3 Generator(Based on user input)"
 date: 2024
 published: true
 labels:
   - C
-  - C++
-summary: "A database application that I implemented in C and C++ for my ICS 212 Program Structure class."
+  - UNIX
+summary: "This is a project that I created for my ICS 212 class in which produces a table showing each number and if it is a multiple of 3."
 ---
-![C](https://github.com/user-attachments/assets/7ac5afe7-9c99-4612-95af-f895472a6cf3)  ![download-1](https://github.com/user-attachments/assets/769b7317-6780-4c99-be78-e2f0bec133b5)
 
+![Screen Shot 2025-01-28 at 10 06 24 PM](https://github.com/user-attachments/assets/7d4bedcc-2237-4a7d-aac4-2db7ada47236)
 
 This is a Bank Database program that I created for ICS 212 last semester. It allows users to do varius things like add a new account, find or delete one, and print out all relevant information that is related for a specific account. This project was split up into two major parts, the user interface and the database. The user interface received input from the user and took care of all the interactions for this entire program. Meanwhile, the database was set up to implement the functions that would actually simulate what a bank is like.
 
