@@ -18,10 +18,6 @@ Output of my application:
 
 ![Screen Shot 2025-01-28 at 10 06 24 PM](https://github.com/user-attachments/assets/7d4bedcc-2237-4a7d-aac4-2db7ada47236)
 
-Snippets of my code: 
-
-
-![Screen Shot 2025-01-28 at 10 24 53 PM](https://github.com/user-attachments/assets/723bb1b6-67a9-472d-a4a8-84513b633292) ![Screen Shot 2025-01-28 at 10 25 00 PM](https://github.com/user-attachments/assets/77c5264c-c8ca-4261-a126-6005e2046a38) ![Screen Shot 2025-01-28 at 10 25 07 PM](https://github.com/user-attachments/assets/2f8a63e0-4f23-4944-9f62-90b8c9714c26)
 
 Link to code:
 
