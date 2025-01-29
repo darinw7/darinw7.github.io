@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: ![Screen Shot 2025-01-28 at 9 27 44 PM](https://github.com/user-attachments/assets/b6050f01-c75f-4095-9501-f664d9688b30)
+
 title: "Bank Database in C/C++"
 date: 2024
 published: true
