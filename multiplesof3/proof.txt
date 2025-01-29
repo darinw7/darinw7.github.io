@@ -1,0 +1,7 @@
+Script started on Sat 14 Sep 2024 07:32:17 PM HST
+]0;darinw9@uhx02:~/homework2[?1034huhx02:/home/d/darinw9/homework2% vi homework2.c[2Pcd homework2[Kvi homework2.cls[Kvi homework2.c[3P./homework2gcc -o homework2 homework2.oansi -pedantic-errors -Wall -c homework2.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Po homework2 homework2.oansi -pedantic-errors -Wall -c homework2.c
+]0;darinw9@uhx02:~/homework2uhx02:/home/d/darinw9/homework2% gcc -ansi -pedantic-errors -Wall -c homework2.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi homework2.c[K[2Pcd homework2[Kvi homework2.cls[Kvi homework2.c[3P./homework2gcc -o homework2 homework2.oansi -pedantic-errors -Wall -c homework2.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Po homework2 homework2.o
+]0;darinw9@uhx02:~/homework2uhx02:/home/d/darinw9/homework2% exit
+exit
+
+Script done on Sat 14 Sep 2024 07:32:51 PM HST

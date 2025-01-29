@@ -1,0 +1,98 @@
+Script started on Sat 14 Sep 2024 08:15:39 PM HST
+]0;darinw9@uhx02:~/homework2[?1034huhx02:/home/d/darinw9/homework2% ./homework2
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: 15
+  Number   Multiple of 3?
+       0    No
+       1    No
+       2    No
+       3    Yes
+       4    No
+       5    No
+       6    Yes
+       7    No
+       8    No
+       9    Yes
+      10    No
+      11    No
+      12    Yes
+      13    No
+      14    No
+      15    Yes
+]0;darinw9@uhx02:~/homework2uhx02:/home/d/darinw9/homework2% .homewor[K[K[K[K[K[K[K/homework2
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: This is ICS 212
+Invalid input. Please enter a positive integer. 
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: a
+Invalid input. Please enter a positive integer. 
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: 0
+Invalid input. Please enter a positive integer. 
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: -3
+Invalid input. Please enter a positive integer. 
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: 1
+  Number   Multiple of 3?
+       0    No
+       1    No
+]0;darinw9@uhx02:~/homework2uhx02:/home/d/darinw9/homework2% ./homework2
+This program creates a table of numbers from 0 to a maximum number of the user's choosing, and whether or not it is a multiple of 3. 
+Enter maximum number to show: 50
+  Number   Multiple of 3?
+       0    No
+       1    No
+       2    No
+       3    Yes
+       4    No
+       5    No
+       6    Yes
+       7    No
+       8    No
+       9    Yes
+      10    No
+      11    No
+      12    Yes
+      13    No
+      14    No
+      15    Yes
+      16    No
+      17    No
+      18    Yes
+      19    No
+      20    No
+      21    Yes
+      22    No
+      23    No
+      24    Yes
+      25    No
+      26    No
+      27    Yes
+      28    No
+      29    No
+      30    Yes
+      31    No
+      32    No
+      33    Yes
+      34    No
+      35    No
+      36    Yes
+      37    No
+      38    No
+      39    Yes
+      40    No
+      41    No
+      42    Yes
+      43    No
+      44    No
+      45    Yes
+      46    No
+      47    No
+      48    Yes
+      49    No
+      50    No
+]0;darinw9@uhx02:~/homework2uhx02:/home/d/darinw9/homework2% clear[K[K[K[K[Kexit
+exit
+
+Script done on Sat 14 Sep 2024 08:16:14 PM HST
