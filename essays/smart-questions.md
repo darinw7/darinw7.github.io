@@ -9,7 +9,8 @@ labels:
   - StackOverflow
 ---
 
-![Screen Shot 2025-01-30 at 2 36 31 PM](https://github.com/user-attachments/assets/584bea64-0ff7-4325-80dd-aa8b8c003de6)
+![Screen Shot 2025-01-30 at 2 36 31 PM](https://github.com/user-attachments/assets/584bea64-0ff7-4325-80dd-aa8b8c003de6) ![Screen Shot 2025-01-30 at 10 54 32 PM](https://github.com/user-attachments/assets/a61e635a-77fd-40ca-a4c6-560a073caa83)
+
 
 
 ## Introduction - Importance of Asking Smart Questions
