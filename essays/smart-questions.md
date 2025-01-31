@@ -12,9 +12,9 @@ labels:
 ![Screen Shot 2025-01-30 at 2 36 31 PM](https://github.com/user-attachments/assets/584bea64-0ff7-4325-80dd-aa8b8c003de6)
 
 
-## Introduction - Introduction + Importance of Asing Smart Questions
+## Introduction - Importance of Asking Smart Questions
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Throughout my limited experience in programming up to this point, I've had a lots of questions to ask while working on my assignments and projects. A 
 
 ## What’s a smart question?
 
