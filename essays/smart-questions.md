@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2015-01-30
+date: 2025-01-30
 published: true
 labels:
   - StackOverflow
