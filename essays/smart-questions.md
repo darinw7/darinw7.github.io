@@ -24,7 +24,8 @@ This is an example of a well thought out question that follows the rules created
 - **Proof of Effort**: The user has put in effort to solving the problem before asking for help as evidenced by them including their C++ and Java files that they used to test the theory with.
 
 Q: Why is processing a sorted array faster than processing an unsorted array?
-In this C++ code, sorting the data (before the timed region) makes the primary loop ~6x faster:
+
+**C++ Code from User**:
 ```
 #include <algorithm>
 #include <ctime>
@@ -60,18 +61,8 @@ int main()
     std::cout << "sum = " << sum << '\n';
 }
 
-- Without std::sort(data, data + arraySize);, the code runs in 11.54 seconds.
-- With the sorted data, the code runs in 1.93 seconds.
-(Sorting itself takes more time than this one pass over the array, so it's not actually worth doing if we needed to calculate this for an unknown array.)
-
 ```
-- Without std::sort(data, data + arraySize);, the code runs in 11.54 seconds.
-- With the sorted data, the code runs in 1.93 seconds.
-(Sorting itself takes more time than this one pass over the array, so it's not actually worth doing if we needed to calculate this for an unknown array.)
-
-
-Initially, I thought this might be just a language or compiler anomaly, so I tried Java:
-
+**Java code from user**
 ```
 import java.util.Arrays;
 import java.util.Random;
@@ -108,13 +99,6 @@ public class Main
     }
 }
 ```
-With a similar but less extreme result.
-
-My first thought was that sorting brings the data into the cache, but that's silly because the array was just generated.
-
-- What is going on?
-- Why is processing a sorted array faster than processing an unsorted array?
-The code is summing up some independent terms, so the order should not matter.
 
 ## Analyzing a Not-So-Smart Question
 
