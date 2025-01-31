@@ -87,14 +87,10 @@ In comparison to the smart question, this one lacks all of the principles from E
 This question is not a very good question whatsover, despite it having 31 responses and a total of 5.9 million views. In fact, this post wasted a lot of people's time when the user could have just done research on it rather than be lazy, because of how simple a topic it is and the amount of information that there certainly is on the web about it. 
 
 ```
-Q: Facebook Desktop Notifier
+Q: How do I declare and initialize an array in Java?
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+How do I declare and initialize an array in Java?
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
 ```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
