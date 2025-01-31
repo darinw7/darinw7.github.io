@@ -80,7 +80,11 @@ The asker received six possible answers, and he or she was successful in incitin
 
 Example: [How do I declare and initialize an array in Java?](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java>)
 
-In comparison to the smart question, this one lacks all of the principles from Eric Raymond's essay, *How To Ask Questions The Smart Way.*:
+In comparison to the smart question, this one lacks all of the principles from Eric Raymond's essay, *How To Ask Questions The Smart Way* :
+- No Proof of Effort: The user only posts the question that they have without showing whether or not they put any effort into doing research on it before posting the question.
+- Basic & Generic: This is a basic question that can be answered by looking in the Java documentation or even from watching a quick tutorial.
+
+This question is not a very good question whatsover, despite it having 31 responses and a total of 5.9 million views. In fact, this post wasted a lot of people's time when the user could have just done research on it rather than be lazy, because of how simple a topic it is and the amount of information that there certainly is on the web about it. 
 
 ```
 Q: Facebook Desktop Notifier
