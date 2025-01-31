@@ -22,7 +22,7 @@ Stack Overflow, a question and answer site for programmers, is a great resource 
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
-```
+`
 Q: python date of the previous month
 
 I am trying to get the date of the previous month with python. Here is what i've tried:
