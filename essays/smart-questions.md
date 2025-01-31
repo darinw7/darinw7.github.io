@@ -90,10 +90,7 @@ This question is not a very good question whatsover, despite it having 31 respon
 Q: How do I declare and initialize an array in Java?
 
 How do I declare and initialize an array in Java?
-
 ```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
 ## Conclusion
 
