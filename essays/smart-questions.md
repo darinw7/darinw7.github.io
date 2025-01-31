@@ -18,9 +18,9 @@ In the field of software enginnering, communicating with others is certainly one
 ## Analyzing a Smart Question
 Example: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+This is an example of a well thought out question that follows the rules created by Raymond. The following characteristics make it an great example:
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+- Clear
 
 ```
 Q: python date of the previous month
