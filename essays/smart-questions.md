@@ -13,7 +13,7 @@ labels:
 
 
 ## Introduction - Importance of Asking Smart Questions
-In the field of software enginnering, communicating with others is certainly one of the core aspects besides actually creating code. With that, comes asking questions when challenges arise, or something is too confusing or difficult to understand. However, one of the most overlooked part is that its not just about looking for the answer - but instead asking the right questions. Creating questions that are clear and precise allow others to respond with information that is more useful and informative.
+In the field of software enginnering, communicating with others is certainly one of the core aspects besides actually creating code. With that, comes asking questions when challenges arise, or something is too confusing or difficult to understand. However, one of the most overlooked part is that its not just about looking for the answer - but instead asking the right questions. As Eric Raymond's essay, *How To Ask Questions The Smart Way* discusses, creating questions that are clear and precise allow others to respond with information that is more useful and informative.
 
 ## Analyzing a Smart Question
 Example: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
@@ -104,7 +104,7 @@ public class Main
 
 Example: [How do I declare and initialize an array in Java?](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java>)
 
-In comparison to the smart question, this one lacks all of the principles from Eric Raymond's essay, *How To Ask Questions The Smart Way* :
+In comparison to the smart question, this one lacks all of the principles outlined by Raymond:
 - **No Proof of Effort**: The user only posts the question that they have without showing whether or not they put any effort into doing research on it before posting the question.
 - **Basic & Generic**: This is a basic question that can be answered by looking in the Java documentation or even from watching a quick tutorial.
 
@@ -122,3 +122,6 @@ While a large part of my essay is centered around asking Smart questions, it is 
 
 ## Conclusion
 
+Software engineering is quite a challenging topic to learn especially when things are challenging and unclear, which is why asking smart questions can be the difference between success and failure. The concept of being able to communicate effectively with others is a necessary skill to have in the field, and actually benefits everyone who is involed. Whether it is about asking questions or even answering them, a similar rule holds. It is about doing the best that we can to better everyone's experiences and gain knowledge together as a large group. All in all, asking smart questions seems to be of lesser significance, but is actually just as important as creating good code.
+
+*Used ChatGPT only for grammar purposes*
