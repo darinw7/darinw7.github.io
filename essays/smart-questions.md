@@ -23,6 +23,7 @@ This is an example of a well thought out question that follows the rules created
 - **Expresses Question Clearly**: The user expressed the question clearly so that others know that they are explicity asking for the reason why sorted arrays are processed faster than non-sorted arrays.
 - **Proof of Effort**: The user has put in effort to solving the problem before asking for help as evidenced by them including their C++ and Java files that they used to test the theory with.
 
+Q: Q: Why is processing a sorted array faster than processing an unsorted array?
 ```
 Q: Why is processing a sorted array faster than processing an unsorted array?
 In this C++ code, sorting the data (before the timed region) makes the primary loop ~6x faster:
