@@ -14,9 +14,9 @@ labels:
 
 ## Introduction - Importance of Asking Smart Questions
 
-Throughout my limited experience in programming up to this point, I've had a lots of questions to ask while working on my assignments and projects. A 
+Throughout my limited experience in programming up to this point, I've had a lots of questions to ask while working on my assignments and projects. And while it is considered a good skill to have and demonstrates willingness to learn, there is a core aspect that is often overlooked. The way that the question is asked a question is asked
 
-## What’s a smart question?
+## Analyzing a Smart Question
 
 Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
@@ -76,7 +76,7 @@ Like this:
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
-## The foolproof way to get ignored.
+## Analyzing a Not-So-Smart Question
 
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
 
