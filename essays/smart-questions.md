@@ -13,8 +13,8 @@ labels:
 
 
 ## Introduction - Importance of Asking Smart Questions
+In the field of software enginnering, communicating with others is certainly one of the core aspects besides actually creating code. With that, comes asking questions when challenges arise, or something is too confusing or difficult to understand. However, its not just about 
 
-Throughout my limited experience in programming up to this point, I've had a lots of questions to ask while working on my assignments and projects. And while it is considered a good skill to have and demonstrates willingness to learn, there is a core aspect that is often overlooked. The way that the question is asked a question is asked
 
 ## Analyzing a Smart Question
 
