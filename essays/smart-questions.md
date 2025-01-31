@@ -78,9 +78,9 @@ The asker received six possible answers, and he or she was successful in incitin
 
 ## Analyzing a Not-So-Smart Question
 
-[How do I declare and initialize an array in Java?](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java>)
+Example: [How do I declare and initialize an array in Java?](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java>)
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+In comparison to the smart question, this one lacks all of the principles from Eric Raymond's essay, *How To Ask Questions The Smart Way.*:
 
 ```
 Q: Facebook Desktop Notifier
