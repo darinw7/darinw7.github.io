@@ -16,7 +16,7 @@ labels:
 In the field of software enginnering, communicating with others is certainly one of the core aspects besides actually creating code. With that, comes asking questions when challenges arise, or something is too confusing or difficult to understand. However, one of the most overlooked part is that its not just about looking for the answer - but instead asking the right questions. Creating questions that are clear and precise allow others to respond with information that is more useful and informative.
 
 ## Analyzing a Smart Question
-Example: 
+Example: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
@@ -73,8 +73,6 @@ Like this:
  >>>
 
 ```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
 ## Analyzing a Not-So-Smart Question
 
