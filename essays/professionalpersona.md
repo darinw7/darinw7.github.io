@@ -4,7 +4,7 @@ type: essay
 title: "One Line at A Time: My Experience in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-28
-published: true
+published: false
 labels:
   - Software Engineering
 ---
