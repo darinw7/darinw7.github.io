@@ -21,37 +21,44 @@ Example: [Why is processing a sorted array faster than processing an unsorted ar
 This is an example of a well thought out question that follows the rules created by Raymond. The following characteristics make it an great example:
 
 - **Expresses Question Clearly**: The user expressed the question clearly so that others know that they are explicity asking for the reason why sorted arrays are processed faster than non-sorted arrays.
-- **Proof of Effort**: The user has put in effort to solving the problem before asking for help as evidenced by them including their C++ and Java files that they used to test the theory with. They also  
-- 
+- **Proof of Effort**: The user has put in effort to solving the problem before asking for help as evidenced by them including their C++ and Java files that they used to test the theory with.
 
 ```
-Q: python date of the previous month
+Q: Why is processing a sorted array faster than processing an unsorted array?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+#include <algorithm>
+#include <ctime>
+#include <iostream>
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+int main()
+{
+    // Generate data
+    const unsigned arraySize = 32768;
+    int data[arraySize];
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+    for (unsigned c = 0; c < arraySize; ++c)
+        data[c] = std::rand() % 256;
 
-I have solved this trouble in bash with:
+    // !!! With this, the next loop runs faster.
+    std::sort(data, data + arraySize);
 
-echo $(date -d"3 month ago" "+%G%m%d")
+    // Test
+    clock_t start = clock();
+    long long sum = 0;
+    for (unsigned i = 0; i < 100000; ++i)
+    {
+        for (unsigned c = 0; c < arraySize; ++c)
+        {   // Primary loop.
+            if (data[c] >= 128)
+                sum += data[c];
+        }
+    }
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+    double elapsedTime = static_cast<double>(clock()-start) / CLOCKS_PER_SEC;
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+    std::cout << elapsedTime << '\n';
+    std::cout << "sum = " << sum << '\n';
+}
 ```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
