@@ -25,7 +25,7 @@ This is an example of a well thought out question that follows the rules created
 
 Q: Why is processing a sorted array faster than processing an unsorted array?
 
-**C++ Code from User**:
+**C++ Code provided by user:**:
 ```
 #include <algorithm>
 #include <ctime>
@@ -62,7 +62,7 @@ int main()
 }
 
 ```
-**Java code from user**
+**Java code provided by user:**
 ```
 import java.util.Arrays;
 import java.util.Random;
@@ -117,8 +117,8 @@ How do I declare and initialize an array in Java?
 ```
 
 ## Answering Smart Questions Is Just as Important as Asking Them
+While a large part of my essay is centered around asking Smart questions, it is also true the other way around. When providing answers to other people's questions, it is essential to explain the process clearly, and let them know if something doesn't look or sound right so that they can go and look it over again for possible errors. Also by completing this part successfully, the entire StackOverflow community can reap the benefits by learning from each other all at the same time.
 
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
