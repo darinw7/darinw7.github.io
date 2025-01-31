@@ -23,12 +23,9 @@ This is an example of a well thought out question that follows the rules created
 - **Expresses Question Clearly**: The user expressed the question clearly so that others know that they are explicity asking for the reason why sorted arrays are processed faster than non-sorted arrays.
 - **Proof of Effort**: The user has put in effort to solving the problem before asking for help as evidenced by them including their C++ and Java files that they used to test the theory with.
 
-Q: Q: Why is processing a sorted array faster than processing an unsorted array?
-```
 Q: Why is processing a sorted array faster than processing an unsorted array?
 In this C++ code, sorting the data (before the timed region) makes the primary loop ~6x faster:
-
-
+```
 #include <algorithm>
 #include <ctime>
 #include <iostream>
@@ -68,18 +65,14 @@ int main()
 (Sorting itself takes more time than this one pass over the array, so it's not actually worth doing if we needed to calculate this for an unknown array.)
 
 ```
-Initially, I thought this might be just a language or compiler anomaly, so I tried Java:
-
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-Without std::sort(data, data + arraySize);, the code runs in 11.54 seconds.
-With the sorted data, the code runs in 1.93 seconds.
+- Without std::sort(data, data + arraySize);, the code runs in 11.54 seconds.
+- With the sorted data, the code runs in 1.93 seconds.
 (Sorting itself takes more time than this one pass over the array, so it's not actually worth doing if we needed to calculate this for an unknown array.)
 
+
 Initially, I thought this might be just a language or compiler anomaly, so I tried Java:
 
+```
 import java.util.Arrays;
 import java.util.Random;
 
@@ -114,14 +107,14 @@ public class Main
         System.out.println("sum = " + sum);
     }
 }
+```
 With a similar but less extreme result.
 
 My first thought was that sorting brings the data into the cache, but that's silly because the array was just generated.
 
-What is going on?
-Why is processing a sorted array faster than processing an unsorted array?
+- What is going on?
+- Why is processing a sorted array faster than processing an unsorted array?
 The code is summing up some independent terms, so the order should not matter.
-```
 
 ## Analyzing a Not-So-Smart Question
 
