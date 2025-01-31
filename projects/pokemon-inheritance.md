@@ -21,6 +21,7 @@ The role I had in this project was designing and implementing the entirety of th
 
 This experience taught me a lot of valuable skills that I can apply towards my future coding projects. Not only did it help me understand more clearly how inheritance works, but it presented a new way of thinking for how to code more efficiently when given the right situation to succeed in. All in all, the lesson that I'm taking away from all of this is that managing my resources properly will prove to be very crucial in the amount of success that I will have, especially when I begin to code much more lengthy and challenging programs.
 
+
 Below is an example of what an output may look like for this application:
 
 
