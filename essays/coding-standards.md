@@ -18,17 +18,10 @@ After being introduced to ESLint within VSCode for a week now, I have to say tha
 The advantages of having coding standards go beyond just creating error free code but rather
 
 
-## Conclusion:
-```
-
-```
-
-## Answering Smart Questions Is Just as Important as Asking Them
-While a large part of my essay is centered around asking Smart questions, it is also true the other way around. When providing answers to other people's questions, it is essential to explain the process clearly, and let them know if something doesn't look or sound right so that they can go and look it over again for possible errors. Also by completing this part successfully, the entire StackOverflow community can reap the benefits by learning from each other all at the same time.
-
-
 ## Conclusion
 
-Software engineering is quite a challenging topic to learn especially when things are challenging and unclear, which is why asking smart questions can be the difference between success and failure. The concept of being able to communicate effectively with others is a necessary skill to have in the field, and actually benefits everyone who is involed. Whether it is about asking questions or even answering them, a similar rule holds. It is about doing the best that we can to better everyone's experiences and gain knowledge together as a large group. All in all, asking smart questions seems to be of lesser significance, but is actually just as important as creating good code.
+
+
+```
 
 *Used ChatGPT only for grammar purposes*
