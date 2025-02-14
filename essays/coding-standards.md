@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Introduction - Early Impressions
-After being introduced to ESLint within VSCode for a week now, I have to say that there are many positives and negatives that come along with it. As I began using it for the first time, i
+After being introduced to ESLint within VSCode for a week now, I have to say that there are many positives and negatives that come along with it. When I tried it out for the first time, I was quite overwhelmed by the amount of errors that it was telling me needed to be fixed. All of the small problems, from 
 
 ## Analyzing a Smart Question
 
