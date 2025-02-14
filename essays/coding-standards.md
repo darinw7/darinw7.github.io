@@ -10,7 +10,8 @@ labels:
   - ES Lint
   - VS Code
 ---
-![Screen Shot 2025-02-13 at 4 26 59 PM](https://github.com/user-attachments/assets/ba1b67eb-3e31-4844-866a-50195f64ae98)
+![Screen Shot 2025-02-13 at 4 26 59 PM](https://github.com/user-attachments/assets/ba1b67eb-3e31-4844-866a-50195f64ae98)![Screen Shot 2025-02-13 at 7 22 05 PM](https://github.com/user-attachments/assets/f8c0ecb0-55f1-4602-b699-628c96ac9d93)
+
 
 
 ## Introduction - Early Impressions
