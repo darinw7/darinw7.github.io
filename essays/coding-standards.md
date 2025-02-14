@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Building Quality Code: My Journey with ESLint and Coding Styles"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
