@@ -10,7 +10,7 @@ labels:
   - ES Lint
   - VS Code
 ---
-![eslint-logo-animation](https://github.com/user-attachments/assets/c5a0c0bb-6bbb-4bdd-ab95-5ac0760a9fab)
+![1_OvaSRk5EFxb_mN_M_QpUNg](https://github.com/user-attachments/assets/756d656c-991d-477c-a134-f197404f78a6)
 
 
 ## Introduction - Early Impressions
