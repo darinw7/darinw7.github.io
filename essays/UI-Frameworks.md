@@ -27,7 +27,7 @@ While it is totally possible to create webpages with just HTML and CSS, using UI
 
 
 ## Conclusion
-All in all, I 
+All in all, I believe that using UI frameworks prioritizes speed and consistency as opposed to more control over design and structure when using just HTML and CSS. Therefore, both can really good depending on the situation and there is no "one size fits all" analogy that can be said about this. 
 
 
 *Used ChatGPT only for grammar purposes*
