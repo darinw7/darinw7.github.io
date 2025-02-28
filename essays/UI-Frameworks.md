@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Experiencing UI Frameworks"
+title: "Unraveling the Pros and Cons with UI Frameworks: My Journey with Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
@@ -16,14 +16,11 @@ labels:
 Recently in my ICS 314 Software Engineering class, we have been learning about user-interface(UI) frameworks and the many fascinating qualities (both good and bad) that it offers when creating web pages. In particular, Bootstrap 5 is among the most popular options and allows for things like interaction with the user though buttons, navigation bars, and many other things. In my short experience using it, I found many positive takeaways, as well as some not so good things about it especially for beginners and those trying to understand how to even use it properly for the first time.
 
 
-
 ## Advantages & Disadvantages of using Bootstrap 5 for Software Engineering
 
 Image on left is the real 7up page and one on right is one I built using Bootstrap 5:
 
 ![Screen Shot 2025-02-27 at 7 30 56 PM](https://github.com/user-attachments/assets/df8e84e4-d628-41ad-a969-c80326e8e679)![Screen Shot 2025-02-27 at 7 31 10 PM](https://github.com/user-attachments/assets/cae868e8-b216-4767-a50c-3ea53955e4ee)
-
-
 
 
 One of the advantages of using Bootstrap 5 and frameworks in general is with how a large part of the code is already ready to use, and therefore significantly reduces the amount of time needed and frustration that comes by trying to code everything from scratch. I also find that this process helps to ensure consistency across all users and projects, which as a result improves readability for everyone. While everything may seem good so far, there undoubtedly are negatives that come with using it too. For example, it limits the amount of customization can be done, and the learning curve can actually make it take even longer when trying to learn what some lines of code and when to use it as opposed to just implementing it normally.
