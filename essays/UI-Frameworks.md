@@ -16,9 +16,10 @@ labels:
 Recently in my ICS 314 Software Engineering class, we have been learning about user-interface(UI) frameworks and the many fascinating qualities (both good and bad) that it offers when creating web pages. In particular, Bootstrap 5 is among the most popular options and allows for things like interaction with the user though buttons, navigation bars, and many other things. In my short experience using it, I found many positive takeaways, as well as some not so good things about it especially for beginners and those trying to understand how to even use it properly for the first time.
 
 
-![Screen Shot 2025-02-13 at 7 22 05 PM](https://github.com/user-attachments/assets/57eb5f4f-8da9-44f3-af32-78d88e0a6de7)
 
 ## Advantages & Disadvantages of using Bootstrap 5 for Software Engineering
+![Screen Shot 2025-02-27 at 7 14 45 PM](https://github.com/user-attachments/assets/e787b1d0-6f3c-41f8-ba8d-d534ca99f16c)![Screen Shot 2025-02-27 at 7 14 54 PM](https://github.com/user-attachments/assets/2735b30c-d9c7-4248-b417-3128605c8ae5)
+
 
 
 
