@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Building Quality Code: My Journey with ESLint and Coding Styles"
+title: "Experiencing UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
