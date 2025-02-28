@@ -18,7 +18,7 @@ Recently in my ICS 314 Software Engineering class, we have been learning about u
 
 
 ## Advantages & Disadvantages of using Bootstrap 5 for Software Engineering
-![Screen Shot 2025-02-27 at 7 14 45 PM](https://github.com/user-attachments/assets/e787b1d0-6f3c-41f8-ba8d-d534ca99f16c)!  [Screen Shot 2025-02-27 at 7 14 54 PM]
+![Screen Shot 2025-02-27 at 7 14 45 PM](https://github.com/user-attachments/assets/e787b1d0-6f3c-41f8-ba8d-d534ca99f16c)![Screen Shot 2025-02-27 at 7 14 54 PM]
 
 
 
