@@ -21,6 +21,4 @@ labels:
 
 ## Conclusion
 
-
-
 *Used ChatGPT only for grammar purposes*
