@@ -19,6 +19,8 @@ Recently in my ICS 314 Software Engineering class, we have been learning about u
 
 ## Advantages & Disadvantages of using Bootstrap 5 for Software Engineering
 
+Image on left is the real 7up page and one on right is one I built using Bootstrap 5:
+
 ![Screen Shot 2025-02-27 at 7 30 56 PM](https://github.com/user-attachments/assets/df8e84e4-d628-41ad-a969-c80326e8e679)![Screen Shot 2025-02-27 at 7 31 10 PM](https://github.com/user-attachments/assets/cae868e8-b216-4767-a50c-3ea53955e4ee)
 
 
