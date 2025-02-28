@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Unraveling the Pros and Cons with UI Frameworks: My Journey with Bootstrap 5"
+title: "Unraveling the Pros and Cons with UI Frameworks: My Journey through Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
