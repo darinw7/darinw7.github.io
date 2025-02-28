@@ -23,11 +23,11 @@ One of the advantages of using Bootstrap 5 and frameworks in general is with how
 
 
 ## Why not just use raw HTML and CSS?
-While it is totally possible to create webpages with just HTML and CSS, using UI Frameworks can take it to the next level by
+While it is totally possible to create webpages with just HTML and CSS, using UI Frameworks can take it to the next level by making the entire code much more organized and save valuable team that you could be using on other parts of the project. In particular, I have found the container, row, and column classes some of the most useful tools that I can use to structure my page in a way that looks right. 
 
 
 ## Conclusion
-
+All in all, I 
 
 
 *Used ChatGPT only for grammar purposes*
