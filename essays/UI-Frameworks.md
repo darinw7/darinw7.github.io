@@ -10,7 +10,7 @@ labels:
   - VS Code
   - Bootstrap 5
 ---
-![722bf233-457c-4c6c-9312-1b942f132a37-cover (1)](https://github.com/user-attachments/assets/5de43ea2-afbb-4472-b2ca-2277505dd57f)
+![Screen Shot 2025-02-27 at 3 04 05 PM](https://github.com/user-attachments/assets/23233f9e-43b5-4bdd-8009-23527cf240c0)
 
 
 ## Introduction - 
