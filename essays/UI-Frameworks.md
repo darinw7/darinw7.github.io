@@ -19,10 +19,10 @@ Recently in my ICS 314 Software Engineering class, we have been learning about u
 ![Screen Shot 2025-02-13 at 7 22 05 PM](https://github.com/user-attachments/assets/57eb5f4f-8da9-44f3-af32-78d88e0a6de7)
 
 ## Advantages & Disadvantages of using Bootstrap 5 for Software Engineering
-One of the advantages of using Bootstrap 5 and frameworks in general is with how a large part of the code is already ready to use, and therefore significantly reduces the amount of time needed and frustration that comes by trying to code everything from scratch. I also find that this process helps to ensure consistency across all users and projects, which as a result improves readability for everyone. While all may seem good, there undoubtedly are negatives that come with using it too. For example, 
+One of the advantages of using Bootstrap 5 and frameworks in general is with how a large part of the code is already ready to use, and therefore significantly reduces the amount of time needed and frustration that comes by trying to code everything from scratch. I also find that this process helps to ensure consistency across all users and projects, which as a result improves readability for everyone. While everything may seem good so far, there undoubtedly are negatives that come with using it too. For example, it limits the amount of customization can be done, and the learning curve can actually make it take even longer when trying to learn what some lines of code and when to use it as opposed to just implementing it normally.
 
 
-## Why not just using raw HTML and CSS?
+## Why not just use raw HTML and CSS?
 
 
 
