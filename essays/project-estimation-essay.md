@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img src="https://github.com/user-attachments/assets/f53f4ad8-6dc9-40d5-a115-e9aa06ae8c15" align="left" width="300" style="margin: 0 20px 10px 0;" alt="Effort Estimation Screenshot" />
+<img src="https://github.com/user-attachments/assets/f53f4ad8-6dc9-40d5-a115-e9aa06ae8c15" align="left" width="300" height="350" style="margin: 0 20px 10px 0;" alt="Effort Estimation Screenshot" />
 
 ## Introduction
 The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior. 
