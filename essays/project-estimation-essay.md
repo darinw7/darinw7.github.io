@@ -9,9 +9,9 @@ labels:
   - Software Engineering
   - Project Estimation
 ---
-![84679512](https://github.com/user-attachments/assets/c697a105-6193-4313-a7c8-12e204d9bf0a)
 
-![download-1](https://github.com/user-attachments/assets/f53f4ad8-6dc9-40d5-a115-e9aa06ae8c15)
+
+<img src="https://github.com/user-attachments/assets/f53f4ad8-6dc9-40d5-a115-e9aa06ae8c15" align="left" width="300" style="margin: 0 20px 10px 0;" alt="Effort Estimation Screenshot" />
 
 ## Introduction
 
