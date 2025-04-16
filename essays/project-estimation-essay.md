@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Estimating Typescript and the Challenges It Poses"
+title: "From Guessing to Growing: My Experience with Effort Estimation and Tracking"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-23
+date: 2025-04-15
 published: true
 labels:
   - Software Engineering
