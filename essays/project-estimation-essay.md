@@ -12,6 +12,8 @@ labels:
 
 <img src="https://github.com/user-attachments/assets/91233ffb-a640-45f6-b9c4-e701ac0efe96" align="left" width="300" style="margin: 0 20px 20px 0;" alt="Effort Estimation Screenshot" />
 
+
+
 ## Milestone #1 Project Estimation
 For my ICS 314 course final project, my group chose to create an ArtHub website where artists can connect with each other, and share the artpiece that they created with each other. With this, each of my group members also did an estimation of the amount of time it would take to complete their fair share of the tasks, and also the actual amount it took too. 
 
