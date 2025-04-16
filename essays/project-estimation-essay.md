@@ -20,9 +20,9 @@ For my ICS 314 course final project, my group chose to create an ArtHub website 
 Estimation in its entirety plays a key role within project development, and can be used many different ways such as for planning, tracking progress, and promoting better time management skills. The end goal was to make it so that we could not only see how complex the tasks were but also to encourage us to set some benchmarks and expectations that our entire team could realistically accomplish given the amount of time we were given.
 
 <div style="clear: both;">
-## My strategy to creating effort estimates
+  <h2>My strategy to creating effort estimates</h2>
   <p>
-The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior.
+    The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior.
   </p>
 </div>
 
