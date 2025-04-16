@@ -12,12 +12,10 @@ labels:
 
 <img src="https://github.com/user-attachments/assets/91233ffb-a640-45f6-b9c4-e701ac0efe96" align="left" width="300" style="margin: 0 20px 20px 0;" alt="Effort Estimation Screenshot" />
 
-## Introduction
-The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior. 
+## Milestone #1 Project Estimation
+For my ICS 314 course final project, my group chose to create an ArtHub website where artists can connect with each other, and share the artpiece that they created with each other. With this, each of my group members also did an estimation of the amount of time it would take to complete their fair share of the tasks, and also the actual amount it took too. Estimation in its entirety plays a key role within project development, and can be used many different ways such as for planning, tracking progress, and promoting better time management skills. The end goal was to
 
-<p style="margin-left: 320px;">
-The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior.
-</p>
+
 
 ## My strategy to creating effort estimates
 The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior.
@@ -31,6 +29,5 @@ Similar to estimating the time it takes to complete something, it is also very v
 ## My strategy to tracking actual effort 
 As for Milestone 1 of the final project, the method I used to track my actual effort came in the form of a timer which started from the time I began working on the first issue to when I completely finished the parts that I was assigned to. After trying this out, I have started to understand why this is such a popular method used and a core aspect of project building especially with groups. I found that this process does not really take much effort or time to do especially when there are a surplus amount of benefits that come from doing it.
 
-
 ## Final takeaways
-All in all, I have learned a lot from effort estimation even if it is not 100% accurate or even anywear close to that. It adds a lot of value and benefits at the expense of very little time and effort, and also provides very important experience and talent that many companies and people in the world look for. Given that I now have a little experience myself with estimating efforts, my plan going forward will be to continue improving the techniques I've learned, and find more ways to put them to use not only in this case but also with anything that I do.
+All in all, I have learned a lot from effort estimation even if it is not 100% accurate or even anywhere close to that. It adds a lot of value and benefits at the expense of very little time and effort, and also provides very important experience and talent that many companies and people in the world look for. Given that I now have a little experience myself with estimating efforts, my plan going forward will be to continue improving the techniques I've learned, and find more ways to put them to use not only in this case but also with anything that I do.
