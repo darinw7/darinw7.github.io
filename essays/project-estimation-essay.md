@@ -16,8 +16,9 @@ labels:
 ## Introduction
 The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior. 
 
+<p style="margin-left: 320px;">
 The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior.
-
+</p>
 
 ## My strategy to creating effort estimates
 The effort estimates that I came up with had to do with understanding the skill level I possessed with this material, and trying to be realistic about it so that I could come back and look at how accurate it was once I finished my part of the project. To do this, I had to look back into the past experiences earlier in the semester from the assignments and in class exercises while also knowing that this was gonna be much larger and time consuming compared to anything we had completed prior.
