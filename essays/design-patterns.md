@@ -26,6 +26,22 @@ The concept of design patterns can be both challenging and rewarding at the same
 ## My Personal Experiences with Using Design Patterns
 As for design patterns that I've implemented into my source codes, a great example of this would be in the project I am currently working on with my group in ICS 314 Software Engineering class. We are currently working on creating an app called Arthub that allows users within Manoa to either showcase their art or sell them. Within it, is a profiles page in which I was tasked with creating, that includes the use of design patterns as building blocks to begin the development of the site as a whole. For example, 
 
+**Part of my AddProfileForm component source code**:
+```
+const AddProfileForm: React.FC = () => {
+  const { data: session, status } = useSession();
+  const currentUser = session?.user?.email || '';
+
+  const {
+    register,
+    handleSubmit,
+    reset,
+    formState: { errors },
+  } = useForm<FormInputs>({
+    resolver: yupResolver(AddProfileSchema) as Resolver<FormInputs>,
+  });
+```
+
 ## Conclusion
 Imagine having to create a brand new software application for your company and no template is provided to you. This is where design patterns come into play, particularly for saving time and effort that could be used instead to make the program better. It essentially lays out the foundation for what we want to create by providing reusable solutions that can be used to solve common design problems. As expected however, there are also setbacks that come with this of which should not be overlooked. One of the biggest negatives is that the patterns are very generic and as a result may require a lot of changes to make it unique and suitable for the right situations.
 
