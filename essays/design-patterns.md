@@ -10,7 +10,9 @@ labels:
   - Design Patterns
 ---
 
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*AONu5yEFp5-fULZyl7ix-g.jpeg" align="left" width="300" style="margin: 0 20px 20px 0;" alt="Design Patterns Screenshot" />
+<img src="https://github.com/user-attachments/assets/16936ff9-459d-4d9d-b817-7cd6f1717360" 
+     alt="Screen Shot" 
+     style="float: left; margin: 0 15px 10px 0; width: 250px;">
 
 ## Introduction
 
