@@ -19,11 +19,14 @@ labels:
 The concept of design patterns can be both challenging and rewarding at the same time. In the world of software engineering, even the most talented and skillful programmers often do not create all of their code from scratch. That's not to say that they aren't capable of doing so but rather there are better methods they can make use of to reach their end goals more efficiently. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far.
 
 ## Design Patterns - Explanation & Examples
+The concept of design patterns can be both challenging and rewarding at the same time. In the world of software engineering, even the most talented and skillful programmers often do not create all of their code from scratch. That's not to say that they aren't capable of doing so but rather there are better methods they can make use of to reach their end goals more efficiently. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far.
 
 
-## My experiences with using Design Patterns - The Good, Bad, and the In-Between
+## My Personal Experiences with using Design Patterns
+The concept of design patterns can be both challenging and rewarding at the same time. In the world of software engineering, even the most talented and skillful programmers often do not create all of their code from scratch. That's not to say that they aren't capable of doing so but rather there are better methods they can make use of to reach their end goals more efficiently. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far.
 
 
 ## Conclusion
+The concept of design patterns can be both challenging and rewarding at the same time. In the world of software engineering, even the most talented and skillful programmers often do not create all of their code from scratch. That's not to say that they aren't capable of doing so but rather there are better methods they can make use of to reach their end goals more efficiently. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far.
 
 
