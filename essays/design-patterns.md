@@ -15,7 +15,7 @@ labels:
      style="float: left; margin: 0 15px 10px 0; width: 300px;">
 
 ## Introduction
-The concept of design patterns can be both challenging and rewarding at the same time. In the world of software engineering, even the most talented and skillful programmers often do not create all of their code from scratch. That's not to say that they aren't capable of doing so but rather there are better methods they can make use of to reach their end goals more efficiently. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far.
+The concept of design patterns can be both challenging and rewarding at the same time. In the world of software engineering, even the most talented and skillful programmers often do not create all of their code from scratch. That's not to say that they aren't capable of doing so but rather there are better methods they can make use of to reach their end goals more efficiently. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences so far. In this essay, I will go in depth about design patterns — what they are and how they have been relevant to my coding experiences.
 
 <div style="clear: both;">
   <h2>Design Patterns - Explanation & Examples</h2>
