@@ -20,7 +20,7 @@ The concept of design patterns can be both challenging and rewarding at the same
 <div style="clear: both;">
   <h2>Recognizing the Pattern behind Code</h2>
   <p>
-    Imagine having to create a brand new software application for your company and no template is provided to you. This is where design patterns come into play, particularly for saving time and effort that could be used instead to make the program better. It essentially lays out the foundation for what we want to create by providing reusable solutions that can be used to solve common design problems. As expected however, there are also setbacks that come with this and shouldn't be overlooked.
+    Imagine having to create a brand new software application for your company and no template is provided to you. This is where design patterns come into play, particularly for saving time and effort that could be used instead to make the program better. It essentially lays out the foundation for what we want to create by providing reusable solutions that can be used to solve common design problems. As expected however, there are also setbacks that come with this of which should not be overlooked. One of the biggest negatives is that the patterns are very generic and as a result may require a lot of changes to make it unique and suitable for the right situations.
   </p>
 </div>
 
