@@ -12,7 +12,7 @@ labels:
 
 <img src="https://github.com/user-attachments/assets/16936ff9-459d-4d9d-b817-7cd6f1717360" 
      alt="Screen Shot" 
-     style="float: left; margin: 0 15px 10px 0; width: 375px;">
+     style="float: left; margin: 0 15px 10px 0; width: 300px;">
 
 ## Introduction
 
