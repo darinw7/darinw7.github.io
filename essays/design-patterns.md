@@ -43,7 +43,7 @@ const AddProfileForm: React.FC = () => {
 ```
 
 ## Conclusion
-All in all, design patterns are essential tools for any software engineer to have, and 
+All in all, design patterns are essential tools for any software engineer to have, and without it creating efficient applications would become a much more difficult task. While it certainly isn't perfect and isn't a solution for everything, it is great for common challenges and trying to figure out how to get started with tougher ones. As I get more experience with using them, I hope to learn more about it and actually apply them into projects that I work on in the real-world.
 
 
 *Used ChatGPT only for grammar purposes*
