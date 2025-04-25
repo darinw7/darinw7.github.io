@@ -10,5 +10,9 @@ labels:
   - Design Patterns
 ---
 
-## What are deesign patterns?
+![images-1](https://github.com/user-attachments/assets/b5aa1037-a0f1-479d-8bcc-9a1c43d3bedd)
 
+## Introduction
+The concept of design patterns is both challenging and rewarding at the same time. It can
+
+##
