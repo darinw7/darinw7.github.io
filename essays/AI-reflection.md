@@ -33,7 +33,7 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
 Incorporating AI into my code for ICS 314 has been a very up and down learning experience but one that I have really enjoyed. Tools like ChatGPT and Github Copilot at times helped me to understand more clearly how certain concepts work, such as proper techniques for functional programming and solving loads of ESLint errors that were left hopelessly on my screen. For example, when I had no clue how to solve a certain problem that would have certainly taken up multiple hours out of my time, using ChatGPT not only fixed the issue but also gave a quality explanation as to why it produced the response it did. At the same time however, the responses it gives are not always 100% correct, and may not do exactly what I want it to, so I've learned with this to use it as a tool that guides me to my end goal, rather than something that just gives me all the answers. All in all, this process has enhanced my understanding of software engineering concepts by forcing me to think critically about what I've learned and put it all together.
 
 ## IV. Practical Applications
-
+Outside of the classroom, AI has also taken over real-world projects, which has enhanced the efficiency of many major industries. For example, companies like Microsoft and Google report that 20-30% of their code is written by AI, which suggests that its role within coding is only continuing to get larger. As far as the effectiveness goes, an example would be with GitHub Copilot and how it is able to save on average 55% of people's time working on tasks that would otherwise be spent without it.
 
 ## V. Challenges and Opportunities
 
