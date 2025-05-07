@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - AI
 ---
-![Screen Shot 2025-05-06 at 10 22 29 PM](https://github.com/user-attachments/assets/2e18b0c5-1d50-4e3f-977d-bc4c7d971d06)
+![Screen Shot 2025-05-06 at 10 23 43 PM](https://github.com/user-attachments/assets/56edc7d3-915c-45eb-ad47-7f702675aec3)
 
 
 ## I. Introduction
