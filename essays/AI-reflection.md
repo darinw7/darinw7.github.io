@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI"
+title: "How useful is AI actually?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-06
 published: true
@@ -39,7 +39,7 @@ Outside of the classroom, AI has also taken over real-world projects, which has 
 While using AI in ICS 314 certainly helped out in many ways, there were also challenges that I faced along the way. One of the problems I had was dealing with the reliability of the information that ChatGPT and GitHub Copilot gave me, and the frustrations that came afterwards when the code would not run at all. Also, another challenge that I found was how much I had to rely on AI especially on the WODs to the point that a lot of times I would be copy and pasting code that it was recommending without even trying to understand what it was doing. As a result, I find that it is very important to actually find the sweet spot in between both sides. In terms of future opportunities, I believe that it has the potential to do things like suggest improvements given code a person already has, and just continuing to improve their accuracy within responses to the user's benefit.
 
 ## VI. Comparative Analysis
-
+When comparing traditional teaching methods to AI-enhanced approaches within software engineering education, there are some clear unique advantages for both. In an ideal scenario, they would get combined to create the best possible learning experience for everyone. Let's now consider a comparison between the two for three different categories. In terms of engagement, I would give the edge to AI because it's always available to answer questions as opposed to having to wait for a teacher or TA. For knowledge retention, traditional methods are still better in my opinion due to it not just giving answers away for free, and a result allows for better understanding for why things work the way they are. Last but not least, practical skill development is an AI based thing because of how it introduces people to real world design patterns, and leads to cleaner code much more efficiently than humans are capable of doing.
 
 ## VII. Future Considerations
 
