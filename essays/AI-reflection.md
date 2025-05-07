@@ -36,7 +36,7 @@ Incorporating AI into my code for ICS 314 has been a very up and down learning e
 Outside of the classroom, AI has also taken over real-world projects, which has enhanced the efficiency of many major industries. For example, companies like Microsoft and Google report that 20-30% of their code is written by AI, which suggests that its role within coding is only continuing to get larger. As far as the effectiveness goes, an example would be with GitHub Copilot and how it is able to save on average 55% of people's time working on tasks that would otherwise be spent without it.
 
 ## V. Challenges and Opportunities
-
+While using AI in ICS 314 certainly helped out in many ways, there were also challenges that I faced along the way. One of the problems I had was dealing with the reliability of the information that ChatGPT and GitHub Copilot gave me, and the frustrations that came afterwards when the code would not run at all. Also, another challenge that I found was how much I had to rely on AI especially on the WODs to the point that a lot of times I would be copy and pasting code that it was recommending without even trying to understand what it was doing. As a result, I find that it is very important to actually find the sweet spot in between both sides. In terms of future opportunities, I believe that it has the potential to do things like suggest improvements given code a person already has, and just continuing to improve their accuracy within responses to the user's benefit.
 
 ## VI. Comparative Analysis
 
