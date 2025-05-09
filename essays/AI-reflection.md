@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How useful is AI actually?"
+title: "My Personal Experience with AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-06
 published: true
