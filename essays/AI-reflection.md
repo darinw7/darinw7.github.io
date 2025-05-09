@@ -26,27 +26,36 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
      - I did end up using AI for this section because while I did try to do them on my own, as the time began running out, I began to panic and couldn't think very clearly so I thought I might as well see what ChatGPT would say and go from there. While there were certainly moments that it took me a lot of time just asking it questions, I believe that it was successful because it at least got my brain thinking as opposed to sitting still not knowing what to do.
        
 4. Essays
-     - For the reflection essays in this course, I stayed away from using any type of AI outside of checking spelling and grammar. That is because it would certainly not capture my voice since at that point, it wouldn't even be considered my own writing if I'm just using text that it generates. 
+     - For the reflection essays in this course, I stayed away from using any type of AI outside of checking spelling and grammar. That is because it would certainly not capture my voice since at that point, it wouldn't even be considered my own writing if I'm just using text that it generates. Also, I believe that compared to coding, writing does not require use of artificial intelligence in any way to do quality work, but that was just my perspective the entire semester.
 
 5. Final project
+     - The
+   
+7. Learning a concept / tutorial
      -
-6. Learning a concept / tutorial
+   
+9. Answering a question in class or in Discord
      -
-7. Answering a question in class or in Discord
+   
+11. Asking or answering a smart-question
      -
-8. Asking or answering a smart-question
+    
+13. Coding example e.g. “give an example of using Underscore .pluck”
      -
-9. Coding example e.g. “give an example of using Underscore .pluck”
+    
+15. Explaining code
      -
-10. Explaining code
+    
+17. Writing code
      -
-11. Writing code
+    
+19. Documenting code
      -
-12. Documenting code
+    
+21. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
      -
-13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-     -
-14. Other uses in ICS 314 not listed
+    
+23. Other uses in ICS 314 not listed
      -
 
 ## III. Impact on Learning and Understanding
