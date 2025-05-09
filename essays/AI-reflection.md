@@ -47,16 +47,16 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
      - Being able to understand what code does and means is one of the hardest parts I've found that comes with being a programmer. Personally, I find that being able to write code and explain it are two completely different things and aren't related to it each other. I have used AI many times to try and understand code that I've created and others that are given in templates for example. While this is certainly one of the toughest jobs within the business, I feel that having this skill is also one of the most important in order to be a successful software engineer.
     
 17. Writing code
-     - 
+     - Starting from stratch when creating code is certainly not very fun, and can become overwhelming at times. I have used AI at many times throughout the semester to not write the entire code for me, but rather give me a starting point where I feel that it is possible to work off and reach my end goal. For example, I ask it for suggestions on how to create a function but not for all the lines to where I could just copy and paste it into my code.
     
 19. Documenting code
-     -
+     - I have not used AI to document code because outside of what it gives to me which occasionally does include comments, I like to put my own documentation so that I know what exactly each line is doing and as a result avoid confusion trying to understand what role everything has.
     
 21. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-     -
+     - In my perspective, I have a lot of experience asking ChatGPT how to fix code I have, especially after spending hours just staring at it. After seeing what it has to say, sometimes I end up asking myself "How did I not see that" as if it was just a silly mistake. I believe that sometimes it is just necessary to have another eye looking at it or in this case technology to get a quicker fix and avoid going back and forth trying to solve a problem that one just might not see without the help of another.
     
 23. Other uses in ICS 314 not listed
-     -
+     - Outside of all the topics I've mentioned up to this point, I would also say that I used AI to summarize some of the long readings required for the course such as for deploying an app to Vercel, and understanding the steps for how to downwload PostgreSQL given that the instructions were quite unclear and tough to understand.
 
 ## III. Impact on Learning and Understanding
 Incorporating AI into my code for ICS 314 has been a very up and down learning experience but one that I have really enjoyed. Tools like ChatGPT and Github Copilot at times helped me to understand more clearly how certain concepts work, such as proper techniques for functional programming and solving loads of ESLint errors that were left hopelessly on my screen. For example, when I had no clue how to solve a certain problem that would have certainly taken up multiple hours out of my time, using ChatGPT not only fixed the issue but also gave a quality explanation as to why it produced the response it did. At the same time however, the responses it gives are not always 100% correct, and may not do exactly what I want it to, so I've learned with this to use it as a tool that guides me to my end goal, rather than something that just gives me all the answers. All in all, this process has enhanced my understanding of software engineering concepts by forcing me to think critically about what I've learned and put it all together.
