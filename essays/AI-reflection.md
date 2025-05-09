@@ -29,7 +29,7 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
      - For the reflection essays in this course, I stayed away from using any type of AI outside of checking spelling and grammar. That is because it would certainly not capture my voice since at that point, it wouldn't even be considered my own writing if I'm just using text that it generates. Also, I believe that compared to coding, writing does not require use of artificial intelligence in any way to do quality work, but that was just my perspective the entire semester.
 
 5. Final project
-     - The
+     - As for the final project that I am currently working with my group on, I have used AI to guide me along the way due to the complexity and new things that I haven't been introduced to prior. For example, outside of the Digits module in which was only covered for a short while, I did not know how to use databases, or tools like Vercel and Supabase. Therefore, I was able to use ChatGPT for this and get a better understanding of how to get everything up and running.
    
 7. Learning a concept / tutorial
      -
