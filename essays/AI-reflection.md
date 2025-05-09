@@ -17,7 +17,7 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
 
 ## II. Personal Experience with AI
 1. Experience WODs e.g. E18
-     - 
+     - Hello
 2. In-class Practice WODs
      -
 3. In-class WODs
