@@ -31,23 +31,23 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
 5. Final project
      - As for the final project that I am currently working with my group on, I have used AI to guide me along the way due to the complexity and new things that I haven't been introduced to prior. For example, outside of the Digits module in which was only covered for a short while, I did not know how to use databases, or tools like Vercel and Supabase. Therefore, I was able to use ChatGPT for this and get a better understanding of how to get everything up and running.
    
-7. Learning a concept / tutorial
-     -
+6. Learning a concept / tutorial
+     - I have used AI to understand more in depth about how many concepts work, such as Function Programming, UI Design, Databases, Application Design, and many others whenever I got confused. In my opinion, it was worth the effort because it helped guide me the right way especially since the course is very fast-paced and doesn't allow for much time to be spent on any one topic in particular.
    
-9. Answering a question in class or in Discord
-     -
+7. Answering a question in class or in Discord
+     - I have not used AI to answer a question within class or Discord because often times those questions are the same ones that I have of which I also don't have the answer to. Also, in terms of using technology to do so, I tend to avoid it unless I know for sure how something works or the exact answer with strong certainty to prevent accidentally giving misinformation to others.
    
-11. Asking or answering a smart-question
-     -
+8. Asking or answering a smart-question
+     - I have used ChatGPT to answer a smart-question because it allows me to receive a more detailed response, and avoids getting answers in return that are not very helpful.
     
 13. Coding example e.g. “give an example of using Underscore .pluck”
-     -
+     - I have used AI to give me a coding example in the past, especially when I was stuck. For example, I asked it "give me an example of how to create a card component using React Bootstrap that shows a user's profile image, name, bio, and contact information". As a result, it was able to show me how to create one and even showed me how to create different designs based off of that.
     
 15. Explaining code
-     -
+     - Being able to understand what code does and means is one of the hardest parts I've found that comes with being a programmer. Personally, I find that being able to write code and explain it are two completely different things and aren't related to it each other. I have used AI many times to try and understand code that I've created and others that are given in templates for example. While this is certainly one of the toughest jobs within the business, I feel that having this skill is also one of the most important in order to be a successful software engineer.
     
 17. Writing code
-     -
+     - 
     
 19. Documenting code
      -
