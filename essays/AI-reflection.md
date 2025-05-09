@@ -20,12 +20,14 @@ Artificial Intelligence (AI) in just a short period of time has transformed the 
      - Throughout the semester, as the homework assignments continued to get more difficult and jam packed with material, I began using AI partially whenever I would get stuck to ensure that I would finish it in time. The procedure I took was watch the video from the professor once and take notes on a piece of paper before actually attempting it. It was successful up to a certain extent, but I would always find that there were things I missed or didn't fully understand which is why starting at E18 (Functional Programming), I began using it on a regular basis on parts that I had no clue to solve. For example, I would often ask ChatGPT how to implement a certain function given the instructions, and it ended up giving me mixed results. Sometimes, it would give me a perfect response, while other times it would go completely off topic, which is the level of randomness I belive ChatGPT represents.
   
 2. In-class Practice WODs
-     - I did not use AI for this section because while it might have gave me a solution to the problem quicker, this category had no effect whatsoever on my course grade so I used this opportunity instead to learn the material better, and prepare for the real WOD's instead, which I believe did pay off in the long term.
+     - I did not use AI for the in-class practice WODs because while it might have gave me a solution to the problem quicker, this category had no effect whatsoever on my course grade so I used this opportunity instead to learn the material better, and prepare for the real WOD's instead, which I believe did pay off in the long term.
 
 3. In-class WODs
-     -
+     - I did end up using AI for this section because while I did try to do them on my own, as the time began running out, I began to panic and couldn't think very clearly so I thought I might as well see what ChatGPT would say and go from there. While there were certainly moments that it took me a lot of time just asking it questions, I believe that it was successful because it at least got my brain thinking as opposed to sitting still not knowing what to do.
+       
 4. Essays
-     -
+     - For the reflection essays in this course, I stayed away from using any type of AI outside of checking spelling and grammar. That is because it would certainly not capture my voice since at that point, it wouldn't even be considered my own writing if I'm just using text that it generates. 
+
 5. Final project
      -
 6. Learning a concept / tutorial
