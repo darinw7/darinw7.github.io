@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "From Guessing to Growing: My Experience with Effort Estimation and Tracking"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-15
+date: 2025-05-09
 published: true
 labels:
   - Software Engineering
