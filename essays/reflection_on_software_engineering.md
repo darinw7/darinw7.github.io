@@ -22,6 +22,6 @@ User Interface Frameworks consist of tools and libraries that can be used to cre
 Design patterns are reusable solutions that can be used to solve common design problems. Instead of having to solve a problem from scratch every time, this allows for programmers to save all that time and effort and use it to make the code better instead. As I continued to get more familiar with using them throughout the semester, it only helped me to understand more clearly that it's not only about getting the code and the answers, but rather putting all the components together to reach our desired end result in a more timely manner. One of the great things that I also find about this process is that it isn't limited to any particular programming language, and instead focuses on creating cleaner code that everyone can read and understand.
 
 ## Conclusion
-
+All in all, the course significantly deepened my understanding of software engineering both within and outside of web development. My main takeaways are that the topics we learned and used all are part of a bigger representation as to the requirements that are set for good software design and development practices. With this, I plan to use all that has been taught to me in the class towards future projects and my career down the line knowing that these skills are what truly sets people up for success in real life situations.
 
 *Used ChatGPT only for grammar purposes*
