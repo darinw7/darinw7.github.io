@@ -13,4 +13,13 @@ labels:
 ## Introduction
 
 
+## User Interface Frameworks
+
+
+## Design Patterns
+
+
+## Conclusion
+
+
 *Used ChatGPT only for grammar purposes*
