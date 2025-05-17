@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank_database.png
+image: img/ArtHub.png
 
 
 title: "ArtHub"
