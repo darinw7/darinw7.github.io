@@ -3,13 +3,14 @@ layout: project
 type: project
 image: img/bank_database.png
 
-title: "Bank Database in C/C++"
-date: 2024
+title: "ArtHub"
+date: 2025
 published: true
 labels:
-  - C
-  - C++
-summary: "A database application that I implemented in C and C++ for my ICS 212 Program Structure class."
+  - Software Engineering
+  - Database
+
+summary: "A web application that I created with my group in my ICS 314 Software Engineering class."
 ---
 ![C](https://github.com/user-attachments/assets/7ac5afe7-9c99-4612-95af-f895472a6cf3)  ![download-1](https://github.com/user-attachments/assets/769b7317-6780-4c99-be78-e2f0bec133b5)
 
