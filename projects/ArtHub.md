@@ -31,6 +31,8 @@ Below is a screenshot of what the Explore Artist Profiles Page looks like:
 
 
 ## Links
+[Link to ArtHub GitHub Organization Page](https://github.com/arthub-final-project)
+
 Link to ArtHub GitHub Organization Page:
 <https://github.com/arthub-final-project>
 
