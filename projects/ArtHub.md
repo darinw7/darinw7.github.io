@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/bank_database.png
+image: ![Screen Shot 2025-05-16 at 2 43 38 PM](https://github.com/user-attachments/assets/c71b4593-0219-4e95-8f55-2506e3ba6149)
+
 
 title: "ArtHub"
 date: 2025
