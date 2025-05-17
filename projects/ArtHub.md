@@ -13,4 +13,4 @@ labels:
 summary: "A web application that I created with my group in my ICS 314 Software Engineering class."
 ---
 
-![Screen Shot 2025-05-16 at 3 06 00 PM](https://github.com/user-attachments/assets/68526425-4434-4963-b0b5-bf25321b874f)
+![Screen Shot 2025-05-16 at 3 07 03 PM](https://github.com/user-attachments/assets/cbfa2490-00b8-4ad7-aa29-7eecadf2adbf)
