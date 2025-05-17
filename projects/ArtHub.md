@@ -14,7 +14,7 @@ summary: "A web application that I created with my group in my ICS 314 Software 
 ---
 
 ## Overview
-
+ArtHub is a web application developed as part of a software development project my group chose to work on. It provides freelance and student artists a platform to showcase their work, collaborate with other creators, and sell their artworks through a marketplace. While social media 
 
 ## My Contributions
 
