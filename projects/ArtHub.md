@@ -31,8 +31,8 @@ Below is a screenshot of what the Explore Artist Profiles Page looks like:
 
 
 ## Links
-[ArtHub Organization Page(Github)](https://github.com/arthub-final-project)
+[ArtHub Organization Page (Github)](https://github.com/arthub-final-project)
 
 [ArtHub Home Page](https://arthub-final-project.github.io/arthub.github.io/)
 
-[ArtHub App(Deployed)](https://arthub-314-cyan.vercel.app/)
+[ArtHub App (Deployed)](https://arthub-314-cyan.vercel.app/)
