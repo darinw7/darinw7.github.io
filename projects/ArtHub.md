@@ -7,8 +7,13 @@ title: "ArtHub"
 date: 2025
 published: true
 labels:
+  - Databases
+  - Next.js
+  - PostgreSQL
+  - Prisma
+  - React
   - Software Engineering
-  - Database
+  - Vercel
 
 summary: "A web application that I created with my group in my ICS 314 Software Engineering class."
 ---
