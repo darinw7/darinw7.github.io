@@ -28,7 +28,7 @@ Below is a screenshot of what the Explore Artist Profiles Page looks like:
 ![Screen Shot 2025-05-16 at 3 07 03 PM](https://github.com/user-attachments/assets/cbfa2490-00b8-4ad7-aa29-7eecadf2adbf)
 
 ## Lessons Learned
-
+Working on the development of ArtHub taught me a lot of important lessons that I can use on future projects and for software engineering in general. It provided me a really good review on topics that were covered within the class, and even went more into depth with the implementation and understanding how it all works. For example, concepts like React, Next.js, PostgreSQL, and especially databases were ones that I felt shaky on and needed more practice with. As a result, I not only got more practice but also a feel for how to use them in a much more large and complex application as opposed to the homework assignments. 
 
 ## Links
 [ArtHub Organization Page (Github)](https://github.com/arthub-final-project)
