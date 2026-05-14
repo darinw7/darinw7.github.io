@@ -14,9 +14,6 @@ labels:
 ---
 <img width="700" height="425" alt="Screen Shot 2026-05-14 at 12 07 01 PM" src="https://github.com/user-attachments/assets/e2cca403-7ea7-4d3f-9b0a-9c9dbb7f2d87" />
 
-<img width="700" height="425" alt="Screen Shot 2026-05-14 at 12 12 22 PM" src="https://github.com/user-attachments/assets/2963719c-fde1-46b5-a8ab-2e5252d3534e" />
-
-
 ## Introduction
 In my experience, ICS 414 Software Engineering II expanded upon many of the concepts introduced in ICS 314, but with a much stronger emphasis on teamwork, project management, collaboration, and real-world software engineering practices. Rather than focusing only on building applications, the course simulates what it is like to work with a software development team while also having to manage deadlines, reviews, testing, and open communication with others. Throughout the semester, I learned that software engineering involves much more than simply writing code. More importantly, it also requires strong organization, planning, adaptability, and the ability to work effectively with a team towards a common goal. In this essay, I will reflect on some of the most important concepts and experiences from the course that helped to strengthen my understanding of software engineering as a whole.
 
