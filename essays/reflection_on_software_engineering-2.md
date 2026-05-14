@@ -12,7 +12,7 @@ labels:
   - Software Review
   - Continuous Integration
 ---
-<img width="300" height="200" alt="Screen Shot 2026-05-14 at 12 07 01 PM" src="https://github.com/user-attachments/assets/e2cca403-7ea7-4d3f-9b0a-9c9dbb7f2d87" />
+<img width="600" height="500" alt="Screen Shot 2026-05-14 at 12 07 01 PM" src="https://github.com/user-attachments/assets/e2cca403-7ea7-4d3f-9b0a-9c9dbb7f2d87" />
 
 
 ## Introduction
